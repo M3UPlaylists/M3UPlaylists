@@ -149,6 +149,38 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 http://s06.wsbof.com:8090/s/29fc0c47/match-plus-4.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="http://epg.one/img/17022.png" group-title="Россия +4ч",Золотая коллекция +4
 http://193.242.190.6:8099/98/index.m3u8
+#EXTINF:-1 tvg-id="pervyj-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/3026.png" group-title="Россия +7ч",Первый канал (+7)
+http://
+#EXTINF:-1 tvg-id="rossija1-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/7989.png" group-title="Россия +7ч",Россия 1 (+7)
+http://
+#EXTINF:-1 tvg-id="ntv-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/3028.png" group-title="Россия +7ч",НТВ (+7)
+http://ip1.orgip.net/161/video.m3u8?token=A3b61a999e
+#EXTINF:-1 tvg-id="tnt-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/3024.png" group-title="Россия +7ч",ТНТ (+7)
+http://ip1.orgip.net/197/video.m3u8?token=A3b61a999e
+#EXTINF:-1 tvg-id="rentv-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/3034.png" group-title="Россия +7ч",РЕН ТВ (+7)
+http://s06.wsbof.com:8090/s/29fc0c47/rentv-plus-7.m3u8
+#EXTINF:-1 tvg-id="sts-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/3009.png" group-title="Россия +7ч",СТС (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:-1 tvg-id="domashnij-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/3012.png" group-title="Россия +7ч",Домашний (+7)
+http://94.28.162.76:81/udp/225.77.225.74:5000
+#EXTINF:-1 tvg-id="piatnica-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/3018.png" group-title="Россия +7ч",Пятница (+7)
+http://s06.wsbof.com:8090/s/29fc0c47/piatnica-plus-7.m3u8
+#EXTINF:-1 tvg-id="tv3-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/3015.png" group-title="Россия +7ч",ТВ3 (+7)
+http://s06.wsbof.com:8090/s/29fc0c47/tv3-plus-7.m3u8
+#EXTINF:-1 tvg-id="tvc-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/3038.png" group-title="Россия +7ч",ТВЦ (+7)
+http://s06.wsbof.com:8090/s/29fc0c47/tvc-plus-7.m3u8
+#EXTINF:-1 tvg-id="zvezda-plus-7" tvg-rec="7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm-EYuYXgRX-tdm94ACHbmoct8tmhEtR5_iWoIdug6c7ZuJgJpHtp3jvQPVsutwBNqBAaTpi-pswEbOfDjCzRHhdfWxoDhL9W8_5WP_pthnJI5dv6D672tHO6DWanSxmVPrBOUsW11U1NYmPtT0d5oVhnGPJwMp3QVBybEWuDAdvmKaUD5EPeI10J8PnI0/s1600-rw/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20+7%20(%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA).png" group-title="Россия +7ч",Звезда (+7)
+http://s06.wsbof.com:8090/s/29fc0c47/zvezda-plus-7.m3u8
+#EXTINF:-1 tvg-id="5kanal-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/3031.png" group-title="Россия +7ч",5 канал (+7)
+http://s06.wsbof.com:8090/s/29fc0c47/5kanal-plus-7.m3u8
+#EXTINF:-1 tvg-id="mir-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/3021.png" group-title="Россия +7ч",Мир (+7)
+http://s06.wsbof.com:8090/s/29fc0c47/mir-plus-7.m3u8
+#EXTINF:-1 tvg-id="rossija-k-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/1101.png" group-title="Россия +7ч",Россия-Культура (+7)
+http://s06.wsbof.com:8090/s/29fc0c47/rossija-k-plus-7.m3u8
+#EXTINF:-1 tvg-id="match-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/2051.png" group-title="Россия +7ч",Матч ТВ (+7)
+http://s06.wsbof.com:8090/s/29fc0c47/match-plus-7.m3u8
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/2782.png" group-title="Новости",Настоящее время HD
+http://str05.ottg.app/2782/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7554.png" group-title="Новости",Москва 24
 http://str05.ottg.app/7554/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/9683.png" group-title="Новости",Мегаполис HD
@@ -156,20 +188,20 @@ http://str05.ottg.app/9683/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/6969.png" group-title="Новости",Russia Today HD
 http://str05.ottg.app/6969/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/4428.png" group-title="Новости",РБК
-http://str05.ottg.app/4428/mpegts?token=e06aa33302e42fedf78d3106858d5634
+http://str05.ottg.app/3613/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7518.png" group-title="Новости",Беларусь 24 HD
 http://str05.ottg.app/7518/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="izvestia-hd" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/1751.png" group-title="Новости",Известия HD
-http://str05.ottg.app/1751/mpegts?token=e06aa33302e42fedf78d3106858d5634
+http://str05.ottg.app/4933/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="360-novosti-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/3082.png" group-title="Новости",360 Новости HD
 http://str05.ottg.app/3082/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/1238.png" group-title="Новости",ДОЖДЬ
-http://str05.ottg.app/1238/mpegts?token=e06aa33302e42fedf78d3106858d5634
+http://str05.ottg.app/7702/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="EURONEWS" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/3882.png" group-title="Новости",EURONEWS
 http://str05.ottg.app/3882/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="mir-24" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/1306.png" group-title="Новости",МИР-24
-http://str05.ottg.app/1306/mpegts?token=e06aa33302e42fedf78d3106858d5634
-#EXTINF:-1 tvg-id="ROSSIYA 24" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/7146.png" group-title="Новости",ROSSIYA 24
+http://str05.ottg.app/7462/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="ROSSIYA 24" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/7146.png" group-title="Новости",Россия 24
 http://str05.ottg.app/7146/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="СОЛОВЬЕВ ЛАЙФ" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/9902.png" group-title="Новости",СОЛОВЬЕВ ЛАЙФ
 http://str05.ottg.app/9902/mpegts?token=e06aa33302e42fedf78d3106858d5634
@@ -367,6 +399,12 @@ http://92.248.180.226:81/udp/225.0.55.21:1234
 http://str05.ottg.app/6200/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="tvxxi" tvg-logo="http://pl.ottg.app/icon/3043.png" tvg-name="TV XXI" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кино",TV XXI
 http://str05.ottg.app/3043/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 group-title="Кинозалы",Velilla TV Cinema 4K
+http://158.101.194.132:8888/channel/n2fccd864/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+#EXTINF:-1 group-title="Кинозалы",Velilla TV Русский Сериал HD
+http://158.101.194.132:8888/channel/n685da8ad/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+#EXTINF:-1 group-title="Кинозалы",Velilla TV Action War Films HD
+http://158.101.194.132:8888/channel/613bf965/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
 #EXTINF:-1 tvg-id="skyhigh-orig" tvg-logo="http://pl.ottg.app/icon/8285.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",Sky High Orig HD
 http://str05.ottg.app/8285/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="skyhigh-noir" tvg-logo="http://pl.ottg.app/icon/1897.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",Sky High Noir HD
@@ -549,6 +587,8 @@ http://77.235.1.17/tv100_top/index.m3u8
 http://77.235.1.17/tv100_ruskino/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4776.png" group-title="Кинозалы",Видеокассета VHS
 https://autopilot.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="Спорт",Velilla TV Legendary Matches HD
+http://158.101.194.132:8888/channel/616d65f8/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
 #EXTINF:-1 tvg-id="tv3-sport-open" tvg-logo="http://pl.ottg.app/icon/2337.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Go3 Sport Open HD
 http://str05.ottg.app/2337/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="TV3 Sport 3" tvg-logo="http://pl.ottg.app/icon/9035.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Go3 Sport 3 HD
@@ -657,6 +697,8 @@ http://92.248.180.226:81/udp/225.0.56.51:1234
 http://92.248.180.226:81/udp/225.0.55.30:1234
 #EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://pl.ottg.app/icon/8609.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Конный мир HD
 http://77.235.1.17/konniy_mir/index.m3u8
+#EXTINF:-1 group-title="Мультфильмы",Velilla TV Том и Джерри HD
+http://158.101.194.132:8888/channel/6781f3e5/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
 #EXTINF:-1 tvg-id="nicktoons" tvg-logo="http://pl.ottg.app/icon/7087.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",Nicktoons HD
 http://str05.ottg.app/7087/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="http://pl.ottg.app/icon/9954.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",СТС Kids HD
@@ -855,8 +897,8 @@ http://str05.ottg.app/9395/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/4637/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="365-dnej" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2331.png" group-title="Познавательные",365 Дней
 http://str05.ottg.app/2331/mpegts?token=e06aa33302e42fedf78d3106858d5634
-#EXTINF:-1 tvg-logo="http://epg.one/img/2666.png" group-title="Музыкальные",Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Velilla TV Pop & Rock Concerts HD
+http://158.101.194.132:8888/channel/4da1d467/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
 #EXTINF:-1 tvg-id="box-music-4k" tvg-logo="http://pl.ottg.app/icon/3824.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",BOX Music 4K
 http://str05.ottg.app/3824/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://pl.ottg.app/icon/2952.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",MM Rock HD
@@ -1261,3 +1303,4 @@ http://str05.ottg.app/4798/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/6052/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwg3fZNSwfBCZhcD4otCkqxF7knPr0pqi9Uu4e41X7EIj3OX_o9RMTBDNgbzewOzYu6obOXrVSfHMc97Bca8kjz2LWmKUgPvdUM7rfnJ4vPyjr_ER0qh4nvhfYETDeZZZMVE7CkkJOlApBqUsrz-X6sxiszIbVlKf1IFYPP3SqWkzQ47Y/s220/Black%20And%20White%20Globe%20Y2k%20Streetwear%20Logo.png" group-title="Телеграм бот 👉 @iptvlistm3ubot",IPTV M3U Playlists
 https://picasso.stream.voidboost.cc/89650a0a003e59f5369f5fdb2284b5f1:2024110820:UjhseVdqSW1QRGxVZFhpekdzSTkyL2MzUm95SzZENG9wTzlCall4cU13eTdBSUZ5cG9EMFBCR2RwaDdYYkE4M2hoTFJnZXR1ak5hRGVLb0pUT3NPT0E9PQ==/1/1/6/0/0/0/8/q1zr2.mp4:hls:manifest.m3u8
+
