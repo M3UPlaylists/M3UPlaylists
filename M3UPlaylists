@@ -43,6 +43,8 @@ http://str05.ottg.app/8708/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/9348/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="zvezda-plus-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/3394.png" group-title="Общероссийские",Звезда Плюс HD
 http://str05.ottg.app/3394/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/2273.png" group-title="Общероссийские",Арсенал HD
+http://str05.ottg.app/2273/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="tvc-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/3655.png" group-title="Общероссийские",ТВЦ HD
 http://str05.ottg.app/3655/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="5kanal" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/4750.png" group-title="Общероссийские",5 канал
@@ -65,6 +67,8 @@ http://str05.ottg.app/6406/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/2345/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="mir-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5789.png" group-title="Общероссийские",Мир HD
 http://str05.ottg.app/5789/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/4096.png" group-title="Общероссийские",ОНТ BY
+http://str05.ottg.app/4096/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="stv-by" tvg-logo="http://pl.ottg.app/icon/7017.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Общероссийские",СТВ HD
 http://str05.ottg.app/7017/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="belsat" tvg-logo="http://pl.ottg.app/icon/5693.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Общероссийские",Белсат ТВ HD
@@ -85,6 +89,8 @@ http://str05.ottg.app/8880/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/9657/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="super-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/3894.png" group-title="Общероссийские",Суббота HD
 http://str05.ottg.app/3894/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/2076.png" group-title="Общероссийские",Ключ HD
+http://str05.ottg.app/2076/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="yu-tv" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/4785.png" group-title="Общероссийские",Ю ТВ
 http://str05.ottg.app/4785/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="vremya" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/3482.png" group-title="Общероссийские",Время
@@ -736,7 +742,7 @@ http://str05.ottg.app/7937/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="match-igra" tvg-logo="http://pl.ottg.app/icon/4780.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Матч! Игра HD
 http://str05.ottg.app/4780/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="match-arena-hd-orig" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/3226.png" group-title="Спорт",Матч! Арена HD
-http://91.205.199.3/2x2tv/index.m3u8
+http://str05.ottg.app/9517/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="http://pl.ottg.app/icon/2321.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Матч! Футбол 1 HD
 http://str05.ottg.app/2065/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="match-football2" tvg-logo="http://pl.ottg.app/icon/6026.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Матч! Футбол 2 HD
@@ -756,9 +762,9 @@ http://str05.ottg.app/6252/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="sport1-lt" tvg-logo="http://pl.ottg.app/icon/4197.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Sport 1 HD
 http://str05.ottg.app/4197/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="eurosport1" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8413.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Eurosport 1 HD
-https://ser2.musical.uz/eurosport1_web/tracks-v1a1/mono.m3u8?remote=45.159.74.68&token=77eb1fe4028972c648e76cf16df77a4519e53342-56fbcae8b90e91b557acda3299be3931-1731523896-1731513096
+http://str05.ottg.app/1515/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="eurosport2" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/9523.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Eurosport 2 HD
-https://ser.musical.uz/eurosport2_web/tracks-v1a1/mono.m3u8?remote=45.159.74.68&token=7458c507efe92ac4a62f945a2a95ce6e02d230dd-6fd1c3306dcd01e022384cf7e348a154-1731523828-1731513028
+http://str05.ottg.app/1525/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="eurosport-4k" tvg-logo="http://pl.ottg.app/icon/9006.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Eurosport 4K PREMIUM+
 http://str05.ottg.app/9006/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="trace-sport-stars" tvg-logo="http://pl.ottg.app/icon/8649.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Trace Sport Stars HD
@@ -768,13 +774,21 @@ http://str05.ottg.app/6499/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8809.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Русский Экстрим HD
 http://92.248.180.226:81/udp/225.0.56.64:1234
 #EXTINF:-1 tvg-id="drive" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5603.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Драйв HD
-http://92.248.180.226:81/udp/225.0.55.134:1234
+http://str05.ottg.app/5603/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="avto24" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8624.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Авто 24 HD
-http://92.248.180.226:81/udp/225.0.56.51:1234
+http://str05.ottg.app/8624/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="avto-plus" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2339.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Авто Плюс HD
-http://92.248.180.226:81/udp/225.0.55.30:1234
+http://str05.ottg.app/2339/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://pl.ottg.app/icon/8609.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Конный мир HD
-http://77.235.1.17/konniy_mir/index.m3u8
+http://str05.ottg.app/8609/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7687.png" group-title="Мультфильмы",Тип Топ HD
+http://str05.ottg.app/7687/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/4852.png" group-title="Мультфильмы",Супер Герои
+http://str05.ottg.app/4852/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/5438.png" group-title="Мультфильмы",Уникум HD
+http://str05.ottg.app/5438/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7521.png" group-title="Мультфильмы",TiJi
+http://str05.ottg.app/7521/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="2na2" tvg-logo="http://pl.ottg.app/icon/2935.png" group-title="Мультфильмы",2х2
 http://str05.ottg.app/2935/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="nicktoons" tvg-logo="http://pl.ottg.app/icon/7087.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",Nicktoons HD
@@ -786,7 +800,7 @@ http://str05.ottg.app/6250/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="da-vinci-eu" tvg-logo="http://pl.ottg.app/icon/5108.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",Da Vinci Kids HD
 http://str05.ottg.app/5108/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="detskij-mir-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/9295.png" group-title="Мультфильмы",Детский Мир HD
-http://de.russkoe-iptv.com:88/s/b3d86d41/detskij-mir-hd.m3u8
+http://str05.ottg.app/9295/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="karusel-hd" tvg-rec="7" tvg-logo="http://epg.one/img/740.png" group-title="Мультфильмы",Карусель HD
 http://str05.ottg.app/2209/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/9375.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",В гостях у сказки HD
@@ -794,17 +808,17 @@ http://str05.ottg.app/2962/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="cartoon-network" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5635.png" group-title="Мультфильмы",Cartoon Network HD
 http://str05.ottg.app/5635/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="mult-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/9985.png" group-title="Мультфильмы",Мульт HD
-http://92.248.180.226:81/udp/225.0.55.126:1234
+http://str05.ottg.app/7952/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="multimania-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2229.png" group-title="Мультфильмы",Мультиландия HD
-http://92.248.180.226:81/udp/225.0.55.95:1234
+http://str05.ottg.app/2229/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="strana" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5321.png" group-title="Мультфильмы",Мультимузыка
-http://92.248.180.226:81/udp/225.0.55.119:1234
+http://str05.ottg.app/5321/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="liova" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/4519.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",Лёва HD
 http://str05.ottg.app/4519/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="ginger-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/9549.png" group-title="Мультфильмы",Капитан Фантастика HD
-https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+http://str05.ottg.app/9549/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="ryzhij" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5672.png" group-title="Мультфильмы",Рыжий
-http://92.248.180.226:81/udp/225.0.55.101:1234
+http://str05.ottg.app/5672/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="nickelodeon-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/3240.png" group-title="Мультфильмы",Nickelodeon HD
 http://str05.ottg.app/3240/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="texno-24" tvg-logo="http://pl.ottg.app/icon/2534.png" group-title="Познавательные",Техно 24
@@ -812,7 +826,7 @@ http://str05.ottg.app/2534/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="http://pl.ottg.app/icon/3385.png" group-title="Познавательные",Телепутешествия
 http://str05.ottg.app/3385/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/8254.png" group-title="Познавательные",Усадьба HD
-http://de.russkoe-iptv.com:88/s/b3d86d41/usadba-hd.m3u8
+http://str05.ottg.app/8254/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-logo="http://epg.one/img/5208.png" group-title="Познавательные",MM Live Planet HD
 http://str05.ottg.app/4085/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://pl.ottg.app/icon/5180.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Познавательные",Загородный
@@ -827,8 +841,6 @@ http://str05.ottg.app/8819/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/7164/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="http://pl.ottg.app/icon/1313.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Познавательные",Живая планета
 http://str05.ottg.app/1313/mpegts?token=e06aa33302e42fedf78d3106858d5634
-#EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="http://pl.ottg.app/icon/5891.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Познавательные",Диалоги о рыбалке HD
-http://str05.ottg.app/5891/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="tlc-blk" tvg-logo="http://pl.ottg.app/icon/9012.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Познавательные",TLC HD
 http://str05.ottg.app/8608/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="food-network-eu" tvg-logo="http://pl.ottg.app/icon/4922.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Познавательные",Food Network HD
@@ -957,6 +969,8 @@ http://str05.ottg.app/5446/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-id="zoopark" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/6767.png" group-title="Познавательные",ZooПарк HD
 http://str05.ottg.app/6767/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/4913.png" group-title="Познавательные",Мужской HD
+http://str05.ottg.app/4913/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="ohotnik-rybolov" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/6651.png" group-title="Познавательные",Рыбалка HD
 http://str05.ottg.app/6651/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="ohotnik-rybolov-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5955.png" group-title="Познавательные",Охотник и рыболов HD
@@ -967,6 +981,8 @@ http://str05.ottg.app/9212/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/9250/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="oxota-rybalka" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/4351.png" group-title="Познавательные",Охота и рыбалка
 http://str05.ottg.app/4351/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="http://pl.ottg.app/icon/5891.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Познавательные",Диалоги о рыбалке HD
+http://str05.ottg.app/5891/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="nasha-tema" tvg-logo="http://pl.ottg.app/icon/7585.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Познавательные",Наша Тема HD
 http://str05.ottg.app/7585/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="oruzhie" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/6836.png" group-title="Познавательные",Оружие
@@ -1072,7 +1088,7 @@ http://str05.ottg.app/8643/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/1573.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Bridge TV Русский Хит
 http://str05.ottg.app/1573/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/9334.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Bridge TV Classic
-https://ser.musical.uz/bridge_classic_web/tracks-v1a1/mono.m3u8?remote=45.159.74.68&token=1cd29ce18d39a1a6a13dbd5c6b536090ba2d9c3b-b9497fb563d3ba05c2a4f86cfeef4d5b-1731521971-1731511171
+http://str05.ottg.app/9334/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-logo="http://pl.ottg.app/icon/4363.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Bridge TV Шлягер
 http://str05.ottg.app/4363/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-logo="http://pl.ottg.app/icon/8966.png" tvg-name="" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Bridge Rock
@@ -1108,7 +1124,7 @@ https://xite-samsung-de.amagi.tv/720p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="viva-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibTqz9Q3_ueDKdiC2KG6QLhXD1jpGD0HPT1CCNyL2hb5Qc1ksscXFu6Q8YASclimNKTKx2HK4454xN03x0wXKb8c8KFsVdsvidfrepCeU4mt2T53TlPAxunAjSgTy-z23GNQmruS0mEOha5m4rNzMdsD9j5BC2t70SuCbgMHzbjV7bGPRTzEIcRCGNJUOR/s1600-rw/15.png" group-title="Музыкальные",VIVO TV
 https://stream.vivotv.uy/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",VIVA Russia HD
-https://hls.goodgame.ru/hls/180805.m3u8
+https://salam-mskm9-43.rutube.ru/dive/river-5-527.rutube.ru/qSou-9Cja0YwgpYX39X-4g/stream/genetta-328.m9.rutube.ru/kY2Fr3ZJYJE9YrQK4oxh2g/1732189924/f712ae5ff3db23ec09b3674133d44daa/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrCLuosgu9nVnCVvm3J2V-U_87wgN5HBbW0FiEfPyn443OEGldILI7oB14qX9aIfW70T5365PenTKoSTaDxMPlG4frBaGVG_WI3GIY3dNxTVnhedAelb6Xnj5cvAdtSsCpsmrgy0ipnvU2aGeV9jqrrnGq37VMxtos4xlj2ECO2CTlDMe_LbhmrW2mjqgE/s1600-rw/16.png" group-title="Музыкальные",Reload TV HD
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 #EXTINF:-1 tvg-id="beat-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5483.png" group-title="Музыкальные",Beat HD
@@ -1370,11 +1386,11 @@ http://str05.ottg.app/8930/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="erox" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/2288.png" timeshift="14" parent-code="0000" catchup-days="14" catchup-type="flussonic" group-title="Взрослые (18+)",Eroxxx HD 18+
 http://str05.ottg.app/2288/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="brazzers-tv-европа" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/8917.png" timeshift="14" parent-code="0000" catchup-days="14" catchup-type="flussonic" group-title="Взрослые (18+)",Brazzers EU HD 18+
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:fb:30:83&stream=201026&extension=m3u8
+http://str05.ottg.app/8917/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="playboy-tv" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/6534.png" timeshift="14" parent-code="0000" catchup-days="14" catchup-type="flussonic" group-title="Взрослые (18+)",Playboy TV 18+
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:fb:30:83&stream=201028&extension=m3u8
+http://str05.ottg.app/6534/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="dorcel" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/3467.png" timeshift="14" parent-code="0000" catchup-days="14" catchup-type="flussonic" group-title="Взрослые (18+)",Dorcel HD 18+
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:fb:30:83&stream=201029&extension=m3u8
+http://str05.ottg.app/3467/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="redlight-hd" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/5504.png" timeshift="14" parent-code="0000" catchup-days="14" catchup-type="flussonic" group-title="Взрослые (18+)",Redlight HD 18+
 http://str05.ottg.app/5504/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="hustler-hd" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/1971.png" timeshift="14" parent-code="0000" catchup-days="14" catchup-type="flussonic" group-title="Взрослые (18+)",Hustler HD 18+
@@ -1407,6 +1423,7 @@ http://str05.ottg.app/7169/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/4798/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="liberty-erotika" tvg-logo="http://pl.ottg.app/icon/6052.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Взрослые (18+)",Liberty Эротика HD
 http://str05.ottg.app/6052/mpegts?token=e06aa33302e42fedf78d3106858d5634
+
 
 
 
