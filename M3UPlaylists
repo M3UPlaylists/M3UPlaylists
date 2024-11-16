@@ -131,22 +131,36 @@ http://str05.ottg.app/9664/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/2806/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="rossija1-plus-4" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5445.png" group-title="Россия +4ч",Россия 1 (+4)
 http://str05.ottg.app/5445/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-logo="http://epg.one/img/1100.png" group-title="Россия +4ч",Россия К (+4)
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1579/stream.m3u8
 #EXTINF:-1 tvg-id="ntv-plus-4" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/7454.png" group-title="Россия +4ч",НТВ (+4)
 http://str05.ottg.app/7454/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="tnt-plus-4" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8594.png" group-title="Россия +4ч",ТНТ (+4)
 http://str05.ottg.app/8594/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="sts-plus-4" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8715.png" group-title="Россия +4ч",СТС (+4)
 http://str05.ottg.app/8715/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="rentv-plus-4" tvg-rec="7" tvg-logo="http://epg.one/img/3033.png" group-title="Россия +4ч",РЕН ТВ (+4)
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1508/stream.m3u8
 #EXTINF:-1 tvg-id="che-pl7" tvg-logo="http://pl.ottg.app/icon/2519.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Россия +4ч",Че +4
 http://str05.ottg.app/2519/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="tv3-plus-4" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/4946.png" group-title="Россия +4ч",ТВ3 (+4)
 http://str05.ottg.app/4946/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="piatnica-plus-4" tvg-rec="7" tvg-logo="http://epg.one/img/3017.png" group-title="Россия +4ч",Пятница (+4)
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1507/stream.m3u8
+#EXTINF:-1 tvg-id="domashnij-plus-4" tvg-rec="7" tvg-logo="http://epg.one/img/3011.png" group-title="Россия +4ч",Домашний (+4)
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1001/stream.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus-4" tvg-rec="7" tvg-logo="http://epg.one/img/3035.png" group-title="Россия +4ч",Звезда (+4)
 http://str05.ottg.app/1766/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="tvc-plus-4" tvg-rec="7" tvg-logo="http://epg.one/img/3037.png" group-title="Россия +4ч",ТВЦ (+4)
 http://str05.ottg.app/8991/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="5kanal-plus-4" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8598.png" group-title="Россия +4ч",5 канал (+4)
 http://str05.ottg.app/8598/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="mir-plus-4" tvg-rec="7" tvg-logo="http://epg.one/img/3020.png" group-title="Россия +4ч",Мир (+4)
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/352/stream.m3u8
+#EXTINF:-1 tvg-id="pervyj-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/3026.png" group-title="Россия +7ч",Первый канал (+7)
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/287/stream.m3u8
+#EXTINF:-1 tvg-id="rossija1-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/7989.png" group-title="Россия +7ч",Россия 1 (+7)
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1284/stream.m3u8
 #EXTINF:-1 tvg-id="rossija-k-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/1101.png" group-title="Россия +7ч",Россия К (+7)
 http://player.smotrim.ru/iframe/stream/live_id/60883?43e=5.m3u8
 #EXTINF:-1 tvg-id="ntv-plus-7" tvg-rec="7" tvg-logo="http://epg.one/img/3028.png" group-title="Россия +7ч",НТВ (+7)
@@ -573,6 +587,56 @@ http://77.235.1.17/tv100_action/index.m3u8
 http://77.235.1.17/tv100_top/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4691.png" group-title="Кинозалы",CineMan РуКино
 http://77.235.1.17/tv100_ruskino/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/4684.png" group-title="Кинозалы",CineMan Action
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1755/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/5585.png" group-title="Кинозалы",CineMan Катастрофы
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1754/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/4689.png" group-title="Кинозалы",CineMan Комедия
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1760/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/4688.png" group-title="Кинозалы",CineMan Ужасы
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1759/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/4687.png" group-title="Кинозалы",CineMan Marvel
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1758/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/4686.png" group-title="Кинозалы",CineMan Мелодрама
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1757/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/4685.png" group-title="Кинозалы",CineMan Thriller
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1756/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/4690.png" group-title="Кинозалы",CineMan VHS
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1761/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/4776.png" group-title="Кинозалы",Видеокассета VHS
+http://195.9.195.3:8080/hls/176975.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6248.png" group-title="Кинозалы",Magic Karate HD
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1862/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6252.png" group-title="Кинозалы",Magic Thriller HD
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1868/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6253.png" group-title="Кинозалы",Magic Action HD
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1867/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6255.png" group-title="Кинозалы",Magic Horror HD
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1865/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6337.png" group-title="Кинозалы",Magic Family HD
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1869/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6338.png" group-title="Кинозалы",Magic Love HD
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1870/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/8754.png" group-title="Кинозалы",Magic Russian HD
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2032/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/5359.png" group-title="Кинозалы",Yosso TV VHS
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1767/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/7884.png" group-title="Кинозалы",Yosso TV Netflix
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2119/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/5586.png" group-title="Кинозалы",Yosso TV Adrenaline
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1781/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/7152.png" group-title="Кинозалы",Yosso TV Мелодрама
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2147/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/5444.png" group-title="Кинозалы",Yosso TV Забавное
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1776/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/5434.png" group-title="Кинозалы",Yosso TV Трагичное
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1775/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/5362.png" group-title="Кинозалы",Yosso TV New Кино
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1772/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/5445.png" group-title="Кинозалы",Yosso TV Ковбойское
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1778/stream.m3u8
+#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/8601.png" group-title="Спорт",Окко Спорт HD
+http://str05.ottg.app/8601/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="tv3-sport-open" tvg-logo="http://pl.ottg.app/icon/2337.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Go3 Sport Open HD
 http://str05.ottg.app/2337/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="TV3 Sport 3" tvg-logo="http://pl.ottg.app/icon/9035.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Go3 Sport 3 HD
@@ -1337,6 +1401,7 @@ http://str05.ottg.app/7169/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/4798/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="liberty-erotika" tvg-logo="http://pl.ottg.app/icon/6052.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Взрослые (18+)",Liberty Эротика HD
 http://str05.ottg.app/6052/mpegts?token=e06aa33302e42fedf78d3106858d5634
+
 
 
 
