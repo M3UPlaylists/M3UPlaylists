@@ -405,6 +405,16 @@ http://de.russkoe-iptv.com:88/s/b3d86d41/feniks-plus-kino-hd.m3u8
 http://str05.ottg.app/6200/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="tvxxi" tvg-logo="http://pl.ottg.app/icon/3043.png" tvg-name="TV XXI" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кино",TV XXI
 http://str05.ottg.app/3043/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="8764" tvg-logo="http://epg.one/img/8764.png" group-title="Кинозалы",VeleS Страшное
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2291/stream.m3u8
+#EXTINF:-1 tvg-id="8766" tvg-logo="http://epg.one/img/8766.png" group-title="Кинозалы",VeleS Movie Hits
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2293/stream.m3u8
+#EXTINF:-1 tvg-id="8761" tvg-logo="http://epg.one/img/8761.png" group-title="Кинозалы",VeleS Киноплёнка
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2287/stream.m3u8
+#EXTINF:-1 tvg-id="8762" tvg-logo="http://epg.one/img/8762.png" group-title="Кинозалы",VeleS Киносерия
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2289/stream.m3u8
+#EXTINF:-1 tvg-id="8763" tvg-logo="http://epg.one/img/8763.png" group-title="Кинозалы",VeleS Premiere
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2290/stream.m3u8
 #EXTINF:-1 tvg-id="skyhigh-orig" tvg-logo="http://pl.ottg.app/icon/8285.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",Sky High Orig HD
 http://str05.ottg.app/8285/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="skyhigh-noir" tvg-logo="http://pl.ottg.app/icon/1897.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",Sky High Noir HD
@@ -1401,6 +1411,7 @@ http://str05.ottg.app/7169/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/4798/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="liberty-erotika" tvg-logo="http://pl.ottg.app/icon/6052.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Взрослые (18+)",Liberty Эротика HD
 http://str05.ottg.app/6052/mpegts?token=e06aa33302e42fedf78d3106858d5634
+
 
 
 
