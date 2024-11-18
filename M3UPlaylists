@@ -501,6 +501,8 @@ http://str05.ottg.app/9042/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/3034/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="minimax-ussr-detektiv" tvg-logo="http://pl.ottg.app/icon/7483.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",MM USSR Детектив HD
 http://str05.ottg.app/7483/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="minimax-kiberpunk" tvg-logo="http://pl.ottg.app/icon/3441.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",MM Киберпанк HD
+http://str05.ottg.app/3441/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="minimax-st-king" tvg-logo="http://pl.ottg.app/icon/7848.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",MM Стивен Кинг HD
 http://str05.ottg.app/7848/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="minimax-mifologija" tvg-logo="http://pl.ottg.app/icon/5157.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",MM Мифология HD
@@ -979,6 +981,8 @@ http://str05.ottg.app/3242/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/7083/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="glazami-turista-4k" tvg-logo="http://pl.ottg.app/icon/3438.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Познавательные",Глазами туриста 4K
 http://str05.ottg.app/3438/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="rtg-tv" tvg-logo="http://pl.ottg.app/icon/6063.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Познавательные",RTG TV
+http://str05.ottg.app/6063/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1636.png" group-title="Познавательные",RTG HD
 http://str05.ottg.app/1636/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="hd-life" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5446.png" group-title="Познавательные",HD Life
@@ -1449,4 +1453,3 @@ http://str05.ottg.app/7169/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/4798/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="liberty-erotika" tvg-logo="http://pl.ottg.app/icon/6052.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Взрослые (18+)",Liberty Эротика HD
 http://str05.ottg.app/6052/mpegts?token=e06aa33302e42fedf78d3106858d5634
-
