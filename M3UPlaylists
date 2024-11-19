@@ -635,6 +635,8 @@ https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1757/
 https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1756/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4690.png" group-title="Кинозалы",CineMan VHS
 https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1761/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6249.png" group-title="Кинозалы",Magic VHS HD
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1861/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6248.png" group-title="Кинозалы",Magic Karate HD
 https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1862/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6252.png" group-title="Кинозалы",Magic Thriller HD
@@ -649,6 +651,10 @@ https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1869/
 https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1870/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/8754.png" group-title="Кинозалы",Magic Russian HD
 https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2032/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6250.png" group-title="Кинозалы",Magic Comedy HD
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1863/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6254.png" group-title="Кинозалы",Magic Galaxy HD
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1866/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5359.png" group-title="Кинозалы",Yosso TV VHS
 https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1767/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/7884.png" group-title="Кинозалы",Yosso TV Netflix
