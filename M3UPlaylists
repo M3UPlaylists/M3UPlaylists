@@ -77,6 +77,8 @@ http://str05.ottg.app/5693/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/6512/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="belarus3" tvg-logo="http://pl.ottg.app/icon/8020.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Общероссийские",Беларусь 3 HD
 http://str05.ottg.app/8020/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="8kanal-by" tvg-logo="http://pl.ottg.app/icon/8447.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Общероссийские",8 Канал HD BY
+http://str05.ottg.app/8447/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="kvn-tv" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/7270.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Общероссийские",КВН ТВ
 http://str05.ottg.app/7270/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="sarafan" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8267.png" group-title="Общероссийские",Сарафан
@@ -861,6 +863,14 @@ http://str05.ottg.app/9940/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/5947/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="box-gurman" tvg-logo="http://pl.ottg.app/icon/4686.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Познавательные",BOX Gurman HD
 http://str05.ottg.app/4686/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="8811" tvg-logo="http://epg.one/img/8811.png" group-title="Познавательные",Yosso TV Food
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2296/stream.m3u8
+#EXTINF:-1 tvg-id="8814" tvg-logo="http://epg.one/img/8814.png" group-title="Познавательные",Yosso TV Travel
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2299/stream.m3u8
+#EXTINF:-1 tvg-id="8813" tvg-logo="http://epg.one/img/8813.png" group-title="Познавательные",Yosso TV Nature
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2298/stream.m3u8
+#EXTINF:-1 tvg-id="8812" tvg-logo="http://epg.one/img/8812.png" group-title="Познавательные",Yosso TV Science
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2297/stream.m3u8
 #EXTINF:-1 tvg-id="skyhigh-doc" tvg-logo="http://pl.ottg.app/icon/8022.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Познавательные",Sky High Doc HD
 http://str05.ottg.app/8022/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="skyhigh-brain" tvg-logo="http://pl.ottg.app/icon/8442.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Познавательные",Sky High Brain HD
@@ -1165,6 +1175,10 @@ http://str05.ottg.app/3499/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/4880/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/2603.png" group-title="Музыкальные",Mezzo Live HD
 http://str05.ottg.app/2603/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="pro-vsio" tvg-logo="http://pl.ottg.app/icon/8335.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Украина",8 канал HD UA
+http://str05.ottg.app/8335/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="24news-ua" tvg-logo="http://pl.ottg.app/icon/7540.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Украина",24 Новости HD
+http://str05.ottg.app/7540/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="priamyj" tvg-logo="http://pl.ottg.app/icon/9847.png" group-title="Украина",Прямий HD
 http://str05.ottg.app/9847/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bolt" tvg-logo="http://pl.ottg.app/icon/1382.png" group-title="Украина",Bolt HD UA
@@ -1392,7 +1406,7 @@ http://str05.ottg.app/9002/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="channel-11-il" tvg-logo="http://pl.ottg.app/icon/8247.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Зарубежные",11 Channel IL
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-id="channel-12-il" tvg-logo="http://pl.ottg.app/icon/5773.png" group-title="Зарубежные",12 Channel IL
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1730553782~acl=%2f*~data=hdntl~hmac=7d6a7c136a412b497cf57a39ff1385abbe5818ce945ee2ac085c7dcce03a21e0/profileManifest.m3u8?_uid=b6411ab8-b9fc-4b48-9a3b-7838186615c4&rK=a2&_did=ea932c5a8ee855da18c8cdee01ef525aa0f14ab9
+http://str05.ottg.app/5773/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="channel-13-il" tvg-logo="http://pl.ottg.app/icon/6635.png" group-title="Зарубежные",13 Channel IL
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="http://epg.one/img/4296.png" group-title="Зарубежные",14 Channel IL
@@ -1445,4 +1459,3 @@ http://str05.ottg.app/7169/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/4798/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="liberty-erotika" tvg-logo="http://pl.ottg.app/icon/6052.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Взрослые (18+)",Liberty Эротика HD
 http://str05.ottg.app/6052/mpegts?token=e06aa33302e42fedf78d3106858d5634
-
