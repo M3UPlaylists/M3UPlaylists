@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.55245.13537716651231321.3067a421-6c2f-48a9-b77c-1e38e19146e6.10e2aa49-52ca-4e79-9a61-b6422978afb9" group-title="Телеграм бот @premiumonlinetvbot",PREMIUM TV
 https://
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
-http://str05.ottg.app/2214/mpegts?token=e06aa33302e42fedf78d3106858d5634
+http://str05.ottg.app/5484/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-logo="http://pl.ottg.app/icon/4795.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Общероссийские",Первый канал Европа
 http://str05.ottg.app/4795/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1 HD
@@ -659,6 +659,20 @@ https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1775/
 https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1772/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5445.png" group-title="Кинозалы",Yosso TV Ковбойское
 https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1778/stream.m3u8
+#EXTINF:-1 tvg-id="8760" tvg-logo="http://epg.one/img/8760.png" group-title="Кинозалы",VeleS 60FPS
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2286/stream.m3u8
+#EXTINF:-1 tvg-id="8763" tvg-logo="http://epg.one/img/8763.png" group-title="Кинозалы",VeleS Premiere
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2290/stream.m3u8
+#EXTINF:-1 tvg-id="8766" tvg-logo="http://epg.one/img/8766.png" group-title="Кинозалы",VeleS Movie Hits
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2293/stream.m3u8
+#EXTINF:-1 tvg-id="8764" tvg-logo="http://epg.one/img/8764.png" group-title="Кинозалы",VeleS Страшное
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2291/stream.m3u8
+#EXTINF:-1 tvg-id="8762" tvg-logo="http://epg.one/img/8762.png" group-title="Кинозалы",VeleS Киносерия
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2289/stream.m3u8
+#EXTINF:-1 tvg-id="8761" tvg-logo="http://epg.one/img/8761.png" group-title="Кинозалы",VeleS Киноплёнка
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2287/stream.m3u8
+#EXTINF:-1 tvg-id="8765" tvg-logo="http://epg.one/img/8765.png" group-title="Кинозалы",VeleS СССР
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2292/stream.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/8601.png" group-title="Спорт",Окко Спорт HD
 http://str05.ottg.app/8601/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="tv3-sport-open" tvg-logo="http://pl.ottg.app/icon/2337.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Go3 Sport Open HD
@@ -1023,6 +1037,12 @@ http://str05.ottg.app/9395/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/4637/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="365-dnej" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2331.png" group-title="Познавательные",365 Дней
 http://str05.ottg.app/2331/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="8808" tvg-logo="http://epg.one/img/8808.png" group-title="Музыкальные",VeleS Магнитофон
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2294/stream.m3u8
+#EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="6627" tvg-logo="http://epg.one/img/6627.png" group-title="Музыкальные",Now 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://pl.ottg.app/icon/2952.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",MM Rock HD
 http://str05.ottg.app/2952/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="minimax-world-hits" tvg-logo="http://pl.ottg.app/icon/6813.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",MM World Hits HD
