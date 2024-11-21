@@ -781,6 +781,12 @@ http://str05.ottg.app/8624/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/2339/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://pl.ottg.app/icon/8609.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Конный мир HD
 http://str05.ottg.app/8609/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="5386" tvg-logo="http://epg.one/img/5386.png" group-title="Мультфильмы",Yosso TV Kids
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1768/stream.m3u8
+#EXTINF:-1 tvg-id="7154" tvg-logo="http://epg.one/img/7154.png" group-title="Мультфильмы",Yosso TV Наше Детское
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/2146/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0yc7DkM.png" group-title="Мультфильмы",YOSSO TV Союзмульт
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1773/stream.m3u8
 #EXTINF:-1 tvg-id="minimax-animated-ms" tvg-logo="http://pl.ottg.app/icon/7898.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",MS Animated HD
 http://str05.ottg.app/7898/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="liberty-multukr" tvg-logo="http://pl.ottg.app/icon/1461.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",Liberty Мульт UKR HD
@@ -793,6 +799,8 @@ http://str05.ottg.app/3374/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/3781/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="minimax-mult" tvg-logo="http://pl.ottg.app/icon/7225.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",MM USSR Мультфильм HD
 http://str05.ottg.app/7225/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="bcu-little" tvg-logo="http://pl.ottg.app/icon/7994.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",BCU Little HD
+http://str05.ottg.app/7994/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bcu-kids" tvg-logo="http://pl.ottg.app/icon/8585.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",BCU Kids HD
 http://str05.ottg.app/8585/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bcu-kids-plus" tvg-logo="http://pl.ottg.app/icon/6398.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",BCU Kids+ HD
@@ -803,6 +811,8 @@ http://str05.ottg.app/8590/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/2691/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="minimax-tom-and-jerry" tvg-logo="http://pl.ottg.app/icon/5857.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",MM Tom and Jerry HD
 http://str05.ottg.app/5857/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HGkiEB6.png" group-title="Мультфильмы",Ералаш
+https://a5.pokaz.me/wjm8_TFjFwEBa6CYKNygSw/512/1732206337/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGVh_8V8H7eA0O03SLBIXILunBs99Km4IRrj2yRfZZTbs6AZSktL7fUaUNzGbs_679g_jvO2hQpmHNTvIHpVyRvjbSbFdYJBZ7QA8sXL8WY6fbH4Mdsd26QqTs9hF4r02sHokGV6-AFyWzyCNOx3kkbQPOfLQqB0shPCZU1e4BT82LTbTixmRL34yBzI3o/s1600-rw/23.png" group-title="Мультфильмы",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7687.png" group-title="Мультфильмы",Тип Топ HD
@@ -925,8 +935,8 @@ http://str05.ottg.app/7129/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/5796/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7865.png" group-title="Познавательные",E HD
 http://str05.ottg.app/7865/mpegts?token=e06aa33302e42fedf78d3106858d5634
-#EXTINF:-1 tvg-logo="http://epg.one/img/2383.png" group-title="Познавательные",Fashion & Lifestyle HD
-http://91.194.191.241:8081/chid169/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
+https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/1223.png" group-title="Познавательные",Fashion TV HD
 http://str05.ottg.app/1223/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/9081.png" group-title="Познавательные",Поехали! HD
@@ -1357,6 +1367,10 @@ http://edge02.odtv.az/o7/idman/playlist.m3u8
 https://irylek.ct8.pl/stream/tvppolonia
 #EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Зарубежные",Star TV TR
 https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="2951" tvg-logo="http://epg.one/img/2951.png" group-title="Зарубежные",TRT TÜRK TR
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="3858" tvg-logo="http://epg.one/img/3858.png" group-title="Зарубежные",TRT AVAZ TR
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2560.png" group-title="Зарубежные",1TV Georgia GE
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2563.png" group-title="Зарубежные",Imedi TV GE
