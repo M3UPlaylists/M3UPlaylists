@@ -6,7 +6,7 @@ http://str05.ottg.app/5484/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-logo="http://pl.ottg.app/icon/4795.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Общероссийские",Первый канал Европа
 http://str05.ottg.app/4795/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5963.png" group-title="Общероссийские",Россия 1 HD
-http://str05.ottg.app/2661/mpegts?token=e06aa33302e42fedf78d3106858d5634
+http://str05.ottg.app/5963/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="rossija-k-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/6216.png" group-title="Общероссийские",Россия Культура HD
 http://str05.ottg.app/6216/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2017.png" group-title="Общероссийские",НТВ HD
@@ -731,6 +731,8 @@ http://str05.ottg.app/2708/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/4652/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="http://pl.ottg.app/icon/1931.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Setanta Sports 2 HD
 http://str05.ottg.app/1931/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="kxl" tvg-logo="http://pl.ottg.app/icon/2957.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",KHL
+http://str05.ottg.app/2957/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="http://pl.ottg.app/icon/6328.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",KHL Prime HD
 http://str05.ottg.app/6328/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="skyhigh-fightpl" tvg-logo="http://pl.ottg.app/icon/4840.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Sky High Fight HD
@@ -757,6 +759,8 @@ http://str05.ottg.app/4286/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/2773/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="http://pl.ottg.app/icon/7517.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Матч! Премьер HD
 http://str05.ottg.app/7517/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="football-ru" tvg-logo="http://pl.ottg.app/icon/2647.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Футбол HD
+http://str05.ottg.app/2647/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="kazsport" tvg-logo="http://pl.ottg.app/icon/3935.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Qazsport HD
 http://str05.ottg.app/3935/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="q-sport-int" tvg-logo="http://pl.ottg.app/icon/6383.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",QSport Int HD
