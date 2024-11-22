@@ -608,11 +608,11 @@ http://str05.ottg.app/2310/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bcu-filmystic" tvg-logo="http://pl.ottg.app/icon/6071.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BCU FilMystic HD
 http://str05.ottg.app/6071/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-logo="http://epg.one/img/4682.png" group-title="Кинозалы",Cineman
-http://77.235.1.17/tv100_action/index.m3u8
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1752/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4683.png" group-title="Кинозалы",CineMan Top
-http://77.235.1.17/tv100_top/index.m3u8
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1753/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4691.png" group-title="Кинозалы",CineMan РуКино
-http://77.235.1.17/tv100_ruskino/index.m3u8
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1762/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4684.png" group-title="Кинозалы",CineMan Action
 https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1755/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5585.png" group-title="Кинозалы",CineMan Катастрофы
