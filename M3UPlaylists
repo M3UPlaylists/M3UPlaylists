@@ -34,7 +34,7 @@ http://str05.ottg.app/9505/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="perec" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5850.png" group-title="Общероссийские",Перец
 http://str05.ottg.app/5850/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8082.png" group-title="Общероссийские",РЕН ТВ HD
-http://str05.ottg.app/6401/mpegts?token=e06aa33302e42fedf78d3106858d5634
+http://str05.ottg.app/8082/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="tv3-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/1540.png" group-title="Общероссийские",ТВ3 HD
 http://str05.ottg.app/1540/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="4e" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8708.png" group-title="Общероссийские",Че
@@ -733,6 +733,8 @@ http://str05.ottg.app/4652/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/1931/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="kxl" tvg-logo="http://pl.ottg.app/icon/2957.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",KHL
 http://str05.ottg.app/2957/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="кхл" tvg-logo="http://pl.ottg.app/icon/7762.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",KHL HD
+http://str05.ottg.app/7762/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="http://pl.ottg.app/icon/6328.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",KHL Prime HD
 http://str05.ottg.app/6328/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="skyhigh-fightpl" tvg-logo="http://pl.ottg.app/icon/4840.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Sky High Fight HD
@@ -791,6 +793,8 @@ http://str05.ottg.app/8624/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/2339/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://pl.ottg.app/icon/8609.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Конный мир HD
 http://str05.ottg.app/8609/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vj8aCJY.png" group-title="Мультфильмы",Magic Disney
+https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1864/stream.m3u8
 #EXTINF:-1 tvg-id="5386" tvg-logo="http://epg.one/img/5386.png" group-title="Мультфильмы",Yosso TV Kids
 https://streamer-2.enchart.one/42/5ed2596146af4a36382c00059116dcce612d3f95/1768/stream.m3u8
 #EXTINF:-1 tvg-id="7154" tvg-logo="http://epg.one/img/7154.png" group-title="Мультфильмы",Yosso TV Наше Детское
@@ -821,8 +825,6 @@ http://str05.ottg.app/8590/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/2691/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="minimax-tom-and-jerry" tvg-logo="http://pl.ottg.app/icon/5857.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",MM Tom and Jerry HD
 http://str05.ottg.app/5857/mpegts?token=e06aa33302e42fedf78d3106858d5634
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HGkiEB6.png" group-title="Мультфильмы",Ералаш
-https://a5.pokaz.me/xODQlPPAuYc26ZNd1Fl_Ig/512/1732289200/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGVh_8V8H7eA0O03SLBIXILunBs99Km4IRrj2yRfZZTbs6AZSktL7fUaUNzGbs_679g_jvO2hQpmHNTvIHpVyRvjbSbFdYJBZ7QA8sXL8WY6fbH4Mdsd26QqTs9hF4r02sHokGV6-AFyWzyCNOx3kkbQPOfLQqB0shPCZU1e4BT82LTbTixmRL34yBzI3o/s1600-rw/23.png" group-title="Мультфильмы",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7687.png" group-title="Мультфильмы",Тип Топ HD
