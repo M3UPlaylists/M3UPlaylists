@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.55245.13537716651231321.3067a421-6c2f-48a9-b77c-1e38e19146e6.10e2aa49-52ca-4e79-9a61-b6422978afb9" group-title="Телеграм бот @premiumonlinetvbot",PREMIUM TV
+#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.55245.13537716651231321.3067a421-6c2f-48a9-b77c-1e38e19146e6.10e2aa49-52ca-4e79-9a61-b6422978afb9" group-title="Телеграм чат @texnozonatv",TEXNO ZONA TV
 https://
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/2580.png" group-title="Общероссийские",Первый HD
 http://str05.ottg.app/5484/mpegts?token=e06aa33302e42fedf78d3106858d5634
