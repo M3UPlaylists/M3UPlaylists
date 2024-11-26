@@ -1,11 +1,1 @@
-#EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
-е",НТВ Право
-http://str05.ottg.app/8025/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/7069.png" group-title="Общероссийские",НТВ Стиль
-http://str05.ottg.app/7069/mpegts?token=e06aa33302e42fedf78d3106858d5634
-#EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/3213.png" group-title="Общероссийские",НТВ Сериал
-http://str05.ottg.app/3900/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
-#EXTINF:-1 tvg-id="tnt-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/1337.png" group-title="Общероссийские",ТНТ HD
-http://str05.ottg.app/3461/mpegts?token=e06aa33302e42fedf78d3106858d5634
-#EXTINF:-1 tvg-id="tnt4-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5889.png" group-title="Общероссийские",ТНТ4 HD
-http://str05.ottg.app/2304/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
+#EXTM3U
