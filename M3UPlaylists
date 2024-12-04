@@ -485,6 +485,8 @@ http://str05.ottg.app/3832/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/9042/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="box-franchise" tvg-logo="http://pl.ottg.app/icon/3034.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BOX Franchise HD
 http://str05.ottg.app/3034/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="minimax-ussr-1941-1945" tvg-logo="http://pl.ottg.cc/icon/3599.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",MM USSR 1941-1945 HD
+http://str05.ottg.cc/3599/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="minimax-ussr-detektiv" tvg-logo="http://pl.ottg.app/icon/7483.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",MM USSR Детектив HD
 http://str05.ottg.app/7483/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="minimax-kiberpunk" tvg-logo="http://pl.ottg.app/icon/3441.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",MM Киберпанк HD
@@ -564,15 +566,19 @@ http://str05.ottg.app/2071/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bcu-premiere" tvg-logo="http://pl.ottg.app/icon/3078.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BCU Premiere HD
 http://str05.ottg.app/3078/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bcu-comedy" tvg-logo="http://pl.ottg.app/icon/2718.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BCU Comedy HD
-http://ronaldo.tvfor.pro/ufBGgULrKs/zt5kjewmaxrvpe2s5q7pfxe9
+http://str05.ottg.cc/2718/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bcu-criminal" tvg-logo="http://pl.ottg.app/icon/3871.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BCU Criminal HD
-http://ronaldo.tvfor.pro/AsTorpOLDo/zt5kjewmaxrvpe2s5q7pfxe9
+http://str05.ottg.cc/3871/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bcu-marvel" tvg-logo="http://pl.ottg.app/icon/1740.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BCU Marvel HD
 http://str05.ottg.app/1740/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bcu-action" tvg-logo="http://pl.ottg.app/icon/7255.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BCU Action HD
 http://str05.ottg.app/7255/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="bcu-charm" tvg-logo="http://pl.ottg.cc/icon/1665.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BCU Charm HD
+http://str05.ottg.cc/1665/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bcu-survival" tvg-logo="http://pl.ottg.app/icon/6035.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BCU Survival HD
 http://str05.ottg.app/6035/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="bcu-media" tvg-logo="http://pl.ottg.cc/icon/1231.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BCU MEDIA HD
+http://str05.ottg.cc/1231/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bcu-catastrophe" tvg-logo="http://pl.ottg.app/icon/5577.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BCU Catastrophe HD
 http://str05.ottg.app/5577/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bcu-fantastic" tvg-logo="http://pl.ottg.app/icon/7834.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BCU Fantastic HD
@@ -597,6 +603,10 @@ http://str05.ottg.app/3239/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/2310/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bcu-filmystic" tvg-logo="http://pl.ottg.app/icon/6071.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BCU FilMystic HD
 http://str05.ottg.app/6071/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="bcu-sssr" tvg-logo="http://pl.ottg.cc/icon/9118.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BCU СССР HD
+http://str05.ottg.cc/9118/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="bcu-ultra4k" tvg-logo="http://pl.ottg.cc/icon/3906.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Кинозалы",BCU Ultra 4K
+http://str05.ottg.cc/3906/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-logo="http://pl.ottg.app/icon/8601.png" group-title="Спорт",Окко Спорт HD
 http://str05.ottg.app/8601/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="tv3-sport-open" tvg-logo="http://pl.ottg.app/icon/2337.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Go3 Sport Open HD
@@ -649,6 +659,8 @@ http://str05.ottg.app/2708/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/4652/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="http://pl.ottg.app/icon/1931.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Setanta Sports 2 HD
 http://str05.ottg.app/1931/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="kxl" tvg-logo="http://pl.ottg.cc/icon/7762.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",KHL HD
+http://str05.ottg.cc/7762/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="kxl-hd" tvg-logo="http://pl.ottg.app/icon/6328.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",KHL Prime HD
 http://str05.ottg.app/6328/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="skyhigh-fightpl" tvg-logo="http://pl.ottg.app/icon/4840.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Sky High Fight HD
@@ -721,6 +733,8 @@ http://str05.ottg.app/7225/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/8585/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bcu-kids-plus" tvg-logo="http://pl.ottg.app/icon/6398.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",BCU Kids+ HD
 http://str05.ottg.app/6398/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-id="bcu-little" tvg-logo="http://pl.ottg.cc/icon/7994.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",BCU Little HD
+http://str05.ottg.cc/7994/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bcu-multserial" tvg-logo="http://pl.ottg.app/icon/8590.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",BCU Мультсериал HD
 http://str05.ottg.app/8590/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="skyhigh-bunny" tvg-logo="http://pl.ottg.app/icon/2691.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",Sky High Bunny HD
@@ -884,11 +898,11 @@ http://str05.ottg.app/5291/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="nat-geo-hd-orig" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/4998.png" group-title="Познавательные",National Geographic HD
 http://str05.ottg.app/3999/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="discovery-hd-orig" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/8979.png" group-title="Познавательные",Discovery Channel HD
-http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+http://str05.ottg.cc/8979/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="id-xtra-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5630.png" group-title="Познавательные",Investigation Discovery HD
-http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+http://str05.ottg.cc/5885/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="animal-planet-hd-orig" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/5474.png" group-title="Познавательные",Animal Planet HD
-http://stream01.vnet.am/AnimalPlanet/index.m3u8
+http://str05.ottg.cc/3507/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="nat-geo-wild-hd-orig" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/6822.png" group-title="Познавательные",Nat Geo Wild HD
 http://str05.ottg.app/7501/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="animal-family-hd" tvg-rec="7" tvg-logo="http://pl.ottg.app/icon/3907.png" group-title="Познавательные",В мире животных HD
