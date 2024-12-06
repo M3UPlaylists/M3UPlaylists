@@ -715,6 +715,8 @@ http://str05.ottg.app/8624/mpegts?token=e06aa33302e42fedf78d3106858d5634
 http://str05.ottg.app/2339/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="konny-mir" tvg-logo="http://pl.ottg.app/icon/8609.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спорт",Конный мир HD
 http://str05.ottg.app/8609/mpegts?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WkLAOY5.png" group-title="Мультфильмы",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="minimax-animated-ms" tvg-logo="http://pl.ottg.app/icon/7898.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",MS Animated HD
 http://str05.ottg.app/7898/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="liberty-multukr" tvg-logo="http://pl.ottg.app/icon/1461.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Мультфильмы",Liberty Мульт UKR HD
@@ -1269,6 +1271,10 @@ http://edge02.odtv.az/o1/cbc/playlist.m3u8
 http://ip1.orgip.net/5011/video.m3u8?token=Md7ac19a92
 #EXTINF:-1 tvg-id="idman-az-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2637.png" group-title="Азербайджан",Idman Azerbaycan HD
 http://edge02.odtv.az/o7/idman/playlist.m3u8
+#EXTINF:-1 tvg-id="4496" tvg-logo="http://epg.one/img/4496.png" group-title="Зарубежные",TVP 1 HD PL
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+#EXTINF:-1 tvg-id="4497" tvg-logo="http://epg.one/img/4497.png" group-title="Зарубежные",TVP 2 HD PL
+https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4487.png" group-title="Зарубежные",TVP Polonia PL
 https://irylek.ct8.pl/stream/tvppolonia
 #EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Зарубежные",Star TV TR
