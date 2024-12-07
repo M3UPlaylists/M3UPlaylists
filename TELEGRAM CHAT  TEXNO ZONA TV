@@ -1064,9 +1064,9 @@ http://str05.ottg.app/4363/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-logo="http://pl.ottg.app/icon/8966.png" tvg-name="" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Bridge Rock
 http://str05.ottg.app/8966/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="la-minor" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/9843.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Ля-минор
-http://92.248.180.226:81/udp/225.0.55.161:1234
+http://str05.ottg.cc/9843/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="shanson-tv" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/5260.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Шансон ТВ
-http://edge02.odtv.az/o7/shansontv/playlist.m3u8
+http://str05.ottg.cc/5260/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="no_epg_music" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/9857.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",M6 Music HD
 http://str05.ottg.app/9857/mpegts?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 tvg-id="no_epg_music" tvg-rec="0" tvg-logo="http://pl.ottg.app/icon/6680.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Музыкальные",Deluxe Music
