@@ -1,14 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновление:07.12.2024
-http://194.26.229.213/zastavka/index.m3u8
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",Android TV + Free TV
-http://194.26.229.213/intro/index.m3u8
-
-
-
-
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/25VcB58T/auto-x2-1.jpg",🔺 INFO 🔺Посмотри!!!
 https://small.fileditchstuff.me/s16/GICICSAOHtplVtVKlcb.mp4
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
