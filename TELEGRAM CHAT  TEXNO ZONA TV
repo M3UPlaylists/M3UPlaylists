@@ -733,8 +733,6 @@ http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/31448/index.m3u8
 http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/31449/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино",BOX СССР 4K
 http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/31625/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Kinozakaz Premiere 4K
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/31547/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино",BOX Premiere+ 4K HDR
 http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/31549/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино",Любимое Кино HD
@@ -1325,76 +1323,6 @@ http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/16064/index.m3u8
 http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/16065/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино",CineMan MiniSeries
 http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/19437/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Кинозал Premiere 1 HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11015/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Кинозал Premiere 2 HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11016/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Кинозал Premiere 3 HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11017/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU СССР HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11026/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Action HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11027/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Catastrophe HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11028/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Cinema HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11029/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Cinema+ HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11030/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Comedy HDR
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11031/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Fantastic HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11032/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU FilMystic HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11033/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU History HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11034/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Kinorating HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11037/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Marvel HDR
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11038/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Premiere HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11039/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Romantic HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11040/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Russian HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11041/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU VHS HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11042/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Media HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11043/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Stars HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11044/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Ultra 4K
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11045/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU RuSerial HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11046/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Сваты HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11047/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино",BCU Criminal HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11048/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Premiere Ultra 4K
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/15023/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Media HD OLD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/15024/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Marvel HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/15025/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Comedy HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/15026/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Reality HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/16082/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Reality OLD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/16083/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Survival HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/17019/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Survival OLD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/17020/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Cosmo HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/17021/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU TruMotion HD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/17054/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино",BCU Romantic OLD
-http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/18052/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Кино",Backus TV Original HD
 http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/11049/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Кино",Best Films HD
@@ -4801,4 +4729,5 @@ http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/6537/index.m3u8
 http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/6538/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Канада | Canada",Adult Swim HD CA
 http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/6540/index.m3u8
+
 
