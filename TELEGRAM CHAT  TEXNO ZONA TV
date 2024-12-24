@@ -481,5 +481,5 @@ http://hlss.goodgame.ru/hls/204722.m3u8
 http://hls.goodgame.ru/hls/199417.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",SCR TV HD
 https://hls.goodgame.ru/hls/61358.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P6y2to8.png" group-title="cinema",Кошмар
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P6y2to8.png" group-title="Кинозалы",Кошмар
 http://195.9.195.3:8080/hls/204709.m3u8
