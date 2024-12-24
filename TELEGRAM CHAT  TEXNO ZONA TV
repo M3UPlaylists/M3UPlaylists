@@ -451,5 +451,9 @@ https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/mas
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RsBTWZo.png" group-title="Кинозалы",Фантастика HD
 http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wvr1OPg.png" group-title="Кинозалы",Ужастик HD
-http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J1WQkLr.png" group-title="Кинозалы",Видеокассета
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UUhf8W6.png" group-title="Кинозалы",1Filmax
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3U3HFgK.png" group-title="Кинозалы",2Filmax
+http://195.9.195.3:8080/hls/204717.m3u8
