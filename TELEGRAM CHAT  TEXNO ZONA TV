@@ -447,39 +447,7 @@ https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="http://epg.one/img/4296.png" group-title="Зарубежные",14 Channel IL
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", α cinema
-http://hls.goodgame.ru:8080/hls/205072.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", α anime
-http://hls.goodgame.ru:8080/hls/205115.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", α funny
-http://hls.goodgame.ru:8080/hls/206963.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Film TV 1
-http://hls.goodgame.ru/hls/208133.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Film TV 2
-http://hls.goodgame.ru/hls/163253.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Film TV 3
-https://hls.goodgame.ru/hls/206510.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", ВосходТВ
-https://hls.goodgame.ru/manifest/202997_master.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Всё ТВ
-http://hls.goodgame.ru/hls/153640.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Видеокасета VHS
-http://hls.goodgame.ru/hls/176975.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Series TV
-https://hls.goodgame.ru/hls/186021.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", FantasticMystiC
-https://hls.goodgame.ru/hls/187741.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", СМОТРИМ
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Кошмар HD
-http://hlss.goodgame.ru/hls/204709.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Akudji TV
-https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Fantom
-http://hlss.goodgame.ru/hls/204722.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Futurama
-http://hls.goodgame.ru/hls/199417.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",SCR TV HD
-https://hls.goodgame.ru/hls/61358.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P6y2to8.png" group-title="Кинозалы",Кошмар
 http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P6y2to8.png" group-title="Кинозалы",Ужастик HD
+http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
